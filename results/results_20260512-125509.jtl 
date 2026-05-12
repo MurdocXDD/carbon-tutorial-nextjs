@@ -1,0 +1,1402 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1778612109240,362,oAuth Bearer,200,OK,T0. setUp Thread Group 1-1,text,true,,2505,419,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/services/oauth/token/,362,0,197
+1778612109642,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,83
+1778612109670,125,GET - Bluegroups,404,Not Found,3. Bluegroups 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,125,0,81
+1778612109648,152,GET - Bluegroups,404,Not Found,3. Bluegroups 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,152,0,107
+1778612109665,138,GET - Bluegroups,404,Not Found,3. Bluegroups 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,138,0,96
+1778612109659,144,GET - Bluegroups,404,Not Found,3. Bluegroups 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,144,0,102
+1778612109682,123,GET - Bluegroups,404,Not Found,3. Bluegroups 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,123,0,80
+1778612109677,142,GET - Bluegroups,404,Not Found,3. Bluegroups 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,142,0,93
+1778612109675,144,GET - Bluegroups,404,Not Found,3. Bluegroups 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,144,0,92
+1778612109654,165,GET - Bluegroups,404,Not Found,3. Bluegroups 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,165,0,113
+1778612109691,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,81
+1778612109696,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,81
+1778612109701,119,GET - Bluegroups,404,Not Found,3. Bluegroups 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,119,0,74
+1778612109706,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,85
+1778612109718,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,82
+1778612109715,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,90
+1778612109711,137,GET - Bluegroups,404,Not Found,3. Bluegroups 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,137,0,94
+1778612109731,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,77
+1778612109726,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,93
+1778612109746,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,85
+1778612109741,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,92
+1778612109736,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,94
+1778612109749,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,84
+1778612109761,125,GET - Bluegroups,404,Not Found,3. Bluegroups 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,125,0,84
+1778612109755,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,93
+1778612109766,138,GET - Bluegroups,404,Not Found,3. Bluegroups 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,138,0,92
+1778612109766,143,GET - Bluegroups,404,Not Found,3. Bluegroups 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,143,0,100
+1778612109776,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,90
+1778612109783,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,85
+1778612109781,130,GET - Bluegroups,404,Not Found,3. Bluegroups 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,130,0,91
+1778612109788,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,86
+1778612109793,140,GET - Bluegroups,404,Not Found,3. Bluegroups 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,140,0,93
+1778612109801,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,98
+1778612109805,137,GET - Bluegroups,404,Not Found,3. Bluegroups 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,137,0,94
+1778612109821,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,90
+1778612109811,143,GET - Bluegroups,404,Not Found,3. Bluegroups 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,143,0,98
+1778612109811,148,GET - Bluegroups,404,Not Found,3. Bluegroups 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,148,0,100
+1778612109826,137,GET - Bluegroups,404,Not Found,3. Bluegroups 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,137,0,88
+1778612109836,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,84
+1778612109831,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,92
+1778612109841,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,83
+1778612109842,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,89
+1778612109846,134,GET - Bluegroups,404,Not Found,3. Bluegroups 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,134,0,93
+1778612109851,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,92
+1778612109857,145,GET - Bluegroups,404,Not Found,3. Bluegroups 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,145,0,93
+1778612109868,136,GET - Bluegroups,404,Not Found,3. Bluegroups 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,136,0,90
+1778612109863,144,GET - Bluegroups,404,Not Found,3. Bluegroups 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,144,0,89
+1778612109874,134,GET - Bluegroups,404,Not Found,3. Bluegroups 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,134,0,91
+1778612109877,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,88
+1778612109885,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,85
+1778612109889,134,GET - Bluegroups,404,Not Found,3. Bluegroups 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,134,0,92
+1778612109902,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,86
+1778612109893,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,98
+1778612109901,147,GET - Bluegroups,404,Not Found,3. Bluegroups 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,147,0,103
+1778612109916,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-55,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,87
+1778612109910,140,GET - Bluegroups,404,Not Found,3. Bluegroups 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,140,0,94
+1778612109926,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,82
+1778612109931,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-58,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,81
+1778612109918,140,GET - Bluegroups,404,Not Found,3. Bluegroups 1-56,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,140,0,92
+1778612109941,120,GET - Bluegroups,404,Not Found,3. Bluegroups 1-60,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,120,0,79
+1778612109934,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-59,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,84
+1778612109960,138,GET - Bluegroups,404,Not Found,3. Bluegroups 1-64,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,31,31,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,138,0,92
+1778612109966,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-65,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,31,31,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,86
+1778612109952,149,GET - Bluegroups,404,Not Found,3. Bluegroups 1-63,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,149,0,96
+1778612109946,155,GET - Bluegroups,404,Not Found,3. Bluegroups 1-61,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,155,0,102
+1778612109951,150,GET - Bluegroups,404,Not Found,3. Bluegroups 1-62,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,150,0,99
+1778612109968,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-66,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,85
+1778612109976,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-67,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,82
+1778612109981,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-68,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,84
+1778612109985,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-69,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,93
+1778612109995,134,GET - Bluegroups,404,Not Found,3. Bluegroups 1-72,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,134,0,89
+1778612109990,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-70,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,88
+1778612109995,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-71,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,93
+1778612110015,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-75,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,77
+1778612110006,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-74,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,83
+1778612110002,142,GET - Bluegroups,404,Not Found,3. Bluegroups 1-73,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,142,0,87
+1778612110023,121,GET - Bluegroups,404,Not Found,3. Bluegroups 1-77,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,121,0,78
+1778612110021,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-76,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,24,24,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,80
+1778612110031,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-78,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,89
+1778612110038,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-80,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,86
+1778612110035,130,GET - Bluegroups,404,Not Found,3. Bluegroups 1-79,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,130,0,87
+1778612110043,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-81,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,83
+1778612110051,145,GET - Bluegroups,404,Not Found,3. Bluegroups 1-82,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,145,0,87
+1778612110056,140,GET - Bluegroups,404,Not Found,3. Bluegroups 1-83,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,140,0,83
+1778612110061,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-84,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,84
+1778612110068,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-86,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,82
+1778612110076,121,GET - Bluegroups,404,Not Found,3. Bluegroups 1-87,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,121,0,76
+1778612110066,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-85,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,82
+1778612110079,118,GET - Bluegroups,404,Not Found,3. Bluegroups 1-88,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,118,0,75
+1778612110086,125,GET - Bluegroups,404,Not Found,3. Bluegroups 1-89,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,125,0,77
+1778612110091,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-90,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,80
+1778612110096,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-91,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,87
+1778612110101,137,GET - Bluegroups,404,Not Found,3. Bluegroups 1-92,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,137,0,95
+1778612110116,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-95,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,81
+1778612110111,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-94,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,85
+1778612110121,121,GET - Bluegroups,404,Not Found,3. Bluegroups 1-96,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,121,0,76
+1778612110106,136,GET - Bluegroups,404,Not Found,3. Bluegroups 1-93,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,136,0,90
+1778612110125,121,GET - Bluegroups,404,Not Found,3. Bluegroups 1-97,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,121,0,77
+1778612110130,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-98,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,92
+1778612110140,125,GET - Bluegroups,404,Not Found,3. Bluegroups 1-100,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,125,0,80
+1778612110134,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-99,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,88
+1778612110145,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-101,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,82
+1778612110155,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-103,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,80
+1778612110150,130,GET - Bluegroups,404,Not Found,3. Bluegroups 1-102,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,130,0,87
+1778612110158,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-104,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,83
+1778612110163,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-105,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,79
+1778612110181,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-108,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,83
+1778612110176,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-107,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,88
+1778612110170,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-106,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,96
+1778612110186,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-109,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,79
+1778612110197,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-112,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,85
+1778612110206,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-113,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,84
+1778612110191,146,GET - Bluegroups,404,Not Found,3. Bluegroups 1-110,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,146,0,99
+1778612110211,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-115,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,79
+1778612110196,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-111,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,87
+1778612110209,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-114,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,81
+1778612110222,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-117,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,81
+1778612110220,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-116,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,85
+1778612110230,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-118,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,79
+1778612110231,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-119,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,85
+1778612110241,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-121,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,79
+1778612110239,138,GET - Bluegroups,404,Not Found,3. Bluegroups 1-120,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,138,0,93
+1778612110250,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-122,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,82
+1778612110263,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-125,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,78
+1778612110252,137,GET - Bluegroups,404,Not Found,3. Bluegroups 1-123,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,137,0,86
+1778612110260,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-124,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,78
+1778612110268,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-126,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,79
+1778612110272,125,GET - Bluegroups,404,Not Found,3. Bluegroups 1-127,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,125,0,80
+1778612110286,121,GET - Bluegroups,404,Not Found,3. Bluegroups 1-130,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,121,0,79
+1778612110281,134,GET - Bluegroups,404,Not Found,3. Bluegroups 1-128,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,134,0,86
+1778612110281,152,GET - Bluegroups,404,Not Found,3. Bluegroups 1-129,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,152,0,89
+1778612110292,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-131,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,85
+1778612110305,130,GET - Bluegroups,404,Not Found,3. Bluegroups 1-133,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,130,0,79
+1778612110309,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-134,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,82
+1778612110297,142,GET - Bluegroups,404,Not Found,3. Bluegroups 1-132,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,142,0,97
+1778612110311,130,GET - Bluegroups,404,Not Found,3. Bluegroups 1-135,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,130,0,89
+1778612110317,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-136,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,83
+1778612110326,152,GET - Bluegroups,404,Not Found,3. Bluegroups 1-138,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,31,31,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,152,0,107
+1778612110333,152,GET - Bluegroups,404,Not Found,3. Bluegroups 1-139,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,152,0,100
+1778612110337,148,GET - Bluegroups,404,Not Found,3. Bluegroups 1-140,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,148,0,96
+1778612110325,164,GET - Bluegroups,404,Not Found,3. Bluegroups 1-137,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,31,31,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,164,0,108
+1778612110347,142,GET - Bluegroups,404,Not Found,3. Bluegroups 1-142,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,31,31,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,142,0,86
+1778612110358,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-144,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,77
+1778612110362,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-145,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,76
+1778612110356,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-143,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,83
+1778612110346,145,GET - Bluegroups,404,Not Found,3. Bluegroups 1-141,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,145,0,89
+1778612110371,166,GET - Bluegroups,404,Not Found,3. Bluegroups 1-146,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,35,35,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,166,0,107
+1778612110394,143,GET - Bluegroups,404,Not Found,3. Bluegroups 1-151,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,35,35,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,143,0,82
+1778612110388,152,GET - Bluegroups,404,Not Found,3. Bluegroups 1-150,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,33,33,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,152,0,103
+1778612110381,159,GET - Bluegroups,404,Not Found,3. Bluegroups 1-149,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,33,33,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,159,0,95
+1778612110397,147,GET - Bluegroups,404,Not Found,3. Bluegroups 1-152,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,147,0,94
+1778612110381,163,GET - Bluegroups,404,Not Found,3. Bluegroups 1-148,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,163,0,104
+1778612110408,136,GET - Bluegroups,404,Not Found,3. Bluegroups 1-154,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,136,0,88
+1778612110406,138,GET - Bluegroups,404,Not Found,3. Bluegroups 1-153,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,138,0,90
+1778612110415,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-155,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,32,32,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,86
+1778612110374,173,GET - Bluegroups,404,Not Found,3. Bluegroups 1-147,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,173,0,102
+1778612110417,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-156,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,88
+1778612110430,119,GET - Bluegroups,404,Not Found,3. Bluegroups 1-158,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,119,0,78
+1778612110423,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-157,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,83
+1778612110455,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-163,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,81
+1778612110435,149,GET - Bluegroups,404,Not Found,3. Bluegroups 1-159,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,30,30,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,149,0,98
+1778612110439,147,GET - Bluegroups,404,Not Found,3. Bluegroups 1-160,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,147,0,96
+1778612110450,140,GET - Bluegroups,404,Not Found,3. Bluegroups 1-162,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,140,0,94
+1778612110467,123,GET - Bluegroups,404,Not Found,3. Bluegroups 1-166,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,123,0,78
+1778612110471,120,GET - Bluegroups,404,Not Found,3. Bluegroups 1-167,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,120,0,78
+1778612110445,146,GET - Bluegroups,404,Not Found,3. Bluegroups 1-161,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,146,0,99
+1778612110461,132,GET - Bluegroups,404,Not Found,3. Bluegroups 1-164,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,132,0,87
+1778612110464,129,GET - Bluegroups,404,Not Found,3. Bluegroups 1-165,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,129,0,84
+1778612110481,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-168,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,88
+1778612110491,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-171,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,91
+1778612110510,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-174,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,78
+1778612110482,154,GET - Bluegroups,404,Not Found,3. Bluegroups 1-169,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,154,0,105
+1778612110503,134,GET - Bluegroups,404,Not Found,3. Bluegroups 1-173,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,29,29,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,134,0,85
+1778612110498,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-172,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,28,28,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,92
+1778612110488,149,GET - Bluegroups,404,Not Found,3. Bluegroups 1-170,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,27,27,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,149,0,100
+1778612110528,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-178,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,26,26,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,81
+1778612110522,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-177,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,90
+1778612110520,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-176,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,25,25,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,90
+1778612110516,144,GET - Bluegroups,404,Not Found,3. Bluegroups 1-175,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,23,23,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,144,0,100
+1778612110541,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-181,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,22,22,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,85
+1778612110536,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-180,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,21,21,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,94
+1778612110547,128,GET - Bluegroups,404,Not Found,3. Bluegroups 1-182,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,21,21,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,128,0,84
+1778612110535,140,GET - Bluegroups,404,Not Found,3. Bluegroups 1-179,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,20,20,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,140,0,97
+1778612110559,121,GET - Bluegroups,404,Not Found,3. Bluegroups 1-184,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,18,18,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,121,0,78
+1778612110564,119,GET - Bluegroups,404,Not Found,3. Bluegroups 1-185,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,17,17,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,119,0,77
+1778612110553,131,GET - Bluegroups,404,Not Found,3. Bluegroups 1-183,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,16,16,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,131,0,88
+1778612110567,123,GET - Bluegroups,404,Not Found,3. Bluegroups 1-186,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,15,15,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,123,0,78
+1778612110571,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-187,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,14,14,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,84
+1778612110592,126,GET - Bluegroups,404,Not Found,3. Bluegroups 1-191,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,13,13,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,126,0,85
+1778612110584,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-189,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,12,12,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,94
+1778612110596,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-192,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,11,11,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,84
+1778612110581,141,GET - Bluegroups,404,Not Found,3. Bluegroups 1-188,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,10,10,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,141,0,99
+1778612110589,133,GET - Bluegroups,404,Not Found,3. Bluegroups 1-190,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,9,9,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,133,0,90
+1778612110606,124,GET - Bluegroups,404,Not Found,3. Bluegroups 1-193,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,8,8,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,124,0,76
+1778612110609,125,GET - Bluegroups,404,Not Found,3. Bluegroups 1-194,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,7,7,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,125,0,83
+1778612110615,120,GET - Bluegroups,404,Not Found,3. Bluegroups 1-195,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,6,6,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,120,0,81
+1778612110630,122,GET - Bluegroups,404,Not Found,3. Bluegroups 1-198,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,5,5,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,122,0,80
+1778612110626,127,GET - Bluegroups,404,Not Found,3. Bluegroups 1-197,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,4,4,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,127,0,86
+1778612110620,135,GET - Bluegroups,404,Not Found,3. Bluegroups 1-196,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,3,3,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,135,0,92
+1778612110639,136,GET - Bluegroups,404,Not Found,3. Bluegroups 1-200,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,2,2,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,136,0,93
+1778612110636,139,GET - Bluegroups,404,Not Found,3. Bluegroups 1-199,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,139,0,95

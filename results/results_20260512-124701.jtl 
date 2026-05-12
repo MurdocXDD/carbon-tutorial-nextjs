@@ -1,0 +1,45 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1778611621436,213,oAuth Bearer,200,OK,T0. setUp Thread Group 1-1,text,true,,2505,419,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/services/oauth/token/,213,0,82
+1778611621686,431,GET - Timezones,200,OK,2. Data Extracts 1-1,text,true,,16938,1684,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/timezones,400,0,76
+1778611622118,74,GET - groups,500,Internal Server Error,2. Data Extracts 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",825,1756,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/groups,74,0,0
+1778611622193,44,GET - Columns,404,Not Found,2. Data Extracts 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",731,1757,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/columns,44,0,0
+1778611622237,45,GET - Preferences,404,Not Found,2. Data Extracts 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",731,1761,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/preferences,45,0,0
+1778611622282,42,GET - Filters,404,Not Found,2. Data Extracts 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",731,1757,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/filters,42,0,0
+1778611622325,42,GET - Filters by id,404,Not Found,2. Data Extracts 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",731,1760,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/filters/15,42,0,0
+1778611622368,43,GET - reports,404,Not Found,2. Data Extracts 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",731,1757,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/reports,43,0,0

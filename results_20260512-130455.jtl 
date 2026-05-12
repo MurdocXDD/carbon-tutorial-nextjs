@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1778612695530,373,oAuth Bearer,200,OK,T0. setUp Thread Group 1-1,text,true,,2505,419,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/services/oauth/token/,373,0,220
+1778612695952,147,GET - Bluegroups,404,Not Found,3. Bluegroups 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",851,1706,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/bluegroups/EU/epando@ibm.com%20,147,0,85

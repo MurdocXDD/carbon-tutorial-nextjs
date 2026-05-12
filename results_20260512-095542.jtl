@@ -1,0 +1,18 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1778601342935,393,oAuth Bearer,200,OK,T0. setUp Thread Group 1-1,text,true,,2505,419,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/services/oauth/token/,393,0,275
+1778601343381,685,GET - Entity List,500,Internal Server Error,4. Entity Services 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1924,3448,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities,187,0,139
+1778601343381,187,GET - Entity List-0,301,Moved Permanently,4. Entity Services 1-1,,true,,551,1687,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/,187,0,139
+1778601343568,498,GET - Entity List-1,500,Internal Server Error,4. Entity Services 1-1,text,false,,1373,1761,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities,498,0,0
+1778601344067,324,GET - Entity roles,200,OK,4. Entity Services 1-1,text,true,,937,1822,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/roles?geo=EU&entityId=C.2396H.008&cnum=107528781,324,0,0
+1778601344392,348,GET - Entity by ID,200,OK,4. Entity Services 1-1,text,true,,1985,1773,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008,348,0,0
+1778601344741,350,GET - Entity by ID Child,200,OK,4. Entity Services 1-1,text,true,,795,1779,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/child,350,0,0
+1778601345091,706,GET - Entity Details,200,OK,4. Entity Services 1-1,text,true,,4012,1781,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/details,706,0,0
+1778601345798,722,GET - Entity Scope,200,OK,4. Entity Services 1-1,text,true,,40857,1779,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/scope,676,0,0
+1778601346522,476,GET - Entity Contract Configuration,200,OK,4. Entity Services 1-1,text,true,,1714,1796,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/contract-configuration,476,0,0
+1778601346999,0,Debug Sampler,200,OK,4. Entity Services 1-1,text,true,,429,0,1,1,null,0,0,0

@@ -1,0 +1,30 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1778600814140,405,oAuth Bearer,200,OK,T0. setUp Thread Group 1-1,text,true,,2543,427,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/services/oauth/token/,404,0,271
+1778600814611,502,GET - Entity List,500,Internal Server Error,4. Entity Services 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1924,3470,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities,134,0,92
+1778600814611,134,GET - Entity List-0,301,Moved Permanently,4. Entity Services 1-1,,true,,551,1698,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/,134,0,92
+1778600814745,368,GET - Entity List-1,500,Internal Server Error,4. Entity Services 1-1,text,false,,1373,1772,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities,368,0,0
+1778600815114,289,GET - Entity roles,500,Internal Server Error,4. Entity Services 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1000,1833,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/roles?geo=EU&entityId=C.2396H.008&cnum=107528781,289,0,0
+1778600815403,507,GET - Entity by ID,401,Unauthorized,4. Entity Services 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",771,1784,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008,507,0,0
+1778600815910,233,GET - Entity by ID Child,200,OK,4. Entity Services 1-1,text,true,,795,1790,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/child,233,0,0
+1778600816144,513,GET - Entity Details,401,Unauthorized,4. Entity Services 1-1,,false,Test failed: code expected to contain /200/,771,1792,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/details,513,0,0
+1778600816658,474,GET - Entity Scope,401,Unauthorized,4. Entity Services 1-1,,false,Test failed: code expected to contain /200/,771,1790,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/scope,474,0,0
+1778600817132,436,GET - Entity Contract Configuration,500,Internal Server Error,4. Entity Services 1-1,text,false,Test failed: code expected to contain /200/,1000,1807,1,1,https://ui-ippf-development.ippf.dal.dev.cirrus.ibm.com/services/ippf/api/EU/entities/C.2396H.008/contract-configuration,436,0,0
+1778600817568,1,Debug Sampler,200,OK,4. Entity Services 1-1,text,true,,439,0,1,1,null,0,0,0
